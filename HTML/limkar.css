@@ -1,0 +1,137 @@
+body{
+    background-image: url(https://www.therevolverclub.com/cdn/shop/articles/Untitled_design_4_4659db89-ab4f-41bd-bbfa-13c52ceb4852.png?v=1704450961&width=1366);
+}
+main.produto1{
+border-radius: 40px;
+background-color: whitesmoke;
+box-shadow: 0px 0px 10px rgb(153, 250, 169);
+padding: 5px;
+width: 200px;
+}
+img.s{
+width: 189px;
+border-radius: 200px;
+}
+
+main.produto1:hover{
+transition-duration: 1s;
+scale: 1.1;
+box-shadow: 0px 0px 100px rgb(153, 250, 169);
+font-weight: 200;
+}
+
+div.produtos{
+font-weight: 100;
+margin-top: 400px;
+display: flex;
+
+}
+.produto2{
+    border-radius: 40px;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 10px rgb(153, 250, 169);
+    padding: 5px;
+    width: 200px;
+    margin-left: 39px;
+}
+
+main.produto2:hover{
+    transition-duration: 1s;
+    scale: 1.1;
+    box-shadow: 0px 0px 100px rgb(142, 247, 203);
+    font-weight: 200;
+
+}
+.camisa{
+    width: 167px;
+    border-radius: 200px ;
+}
+.produto3{
+    border-radius: 40px;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 10px rgb(144, 255, 200);
+    padding: 5px;
+    width: 200px;
+    margin-left: 79px;
+
+}
+main.produto3:hover{
+    transition-duration: 1s;
+    scale: 1.1;
+    box-shadow: 0px 0px 100px rgb(153, 250, 169);
+    font-weight: 200;
+}
+img.chapeu{
+    width: 167px;
+    border-radius: 169px ;
+
+}
+.produto4{
+    border-radius: 40px;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 10px rgb(144, 255, 200);
+    padding: 5px;
+    width: 200px;
+    margin-left: 61px;
+}
+main.produto4:hover{
+    transition-duration: 1s;
+    scale: 1.1;
+    box-shadow: 0px 0px 100px rgb(153, 250, 169);
+    font-weight: 200;
+
+}
+
+img.album{
+    width: 178px;
+    border-radius: 60px ;
+    position: relative;
+
+}
+.produto5 {
+    border-radius: 40px;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 10px rgb(144, 255, 200);
+    padding: 5px;
+    width: 200px;
+    margin-left: 80px;
+}
+main.produto5:hover{
+    transition-duration: 1s;
+    scale: 1.1;
+    box-shadow: 0px 0px 100px rgb(153, 250, 169);
+    font-weight: 200;
+}
+img.anel{
+    width: 178px;
+    border-radius: 60px ;
+    position: relative;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    justify-content: center;
+    background-image: url(https://i.pinimg.com/736x/44/c6/f0/44c6f0484cb3c3f5a6f1a0ce0313da93.jpg);
+}
+
+il.texto{
+display: inline;
+margin: 40px;
+font-size: 40px;
+color: rgb(112, 253, 136);
+padding: 30px;
+background-color: rgb(179, 252, 191);
+border-radius: 26px;
+box-shadow: 0px 0px 12px rgb(98, 218, 128);
+
+}
+header:hover{
+
+ transition: 1s;
+ transform: translate3d(2);
+ scale: 1.1;
+ transform-origin: 200px;
+ 
+}
